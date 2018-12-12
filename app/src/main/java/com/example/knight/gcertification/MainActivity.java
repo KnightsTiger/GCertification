@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
     public void goExplicitIntents(View view) {
         startActivity(new Intent(this,IntentXample.class));
     }
+
+    public void goToUIIcons(View view) {
+        startActivity(new Intent(this,UIElements.class));
+    }
 }

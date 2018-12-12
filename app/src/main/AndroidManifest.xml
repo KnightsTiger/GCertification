@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ActivityLIfeCycle" />
-        <activity android:name=".IntentXample"></activity>
+        <activity android:name=".IntentXample" />
+        <activity android:name=".UIElements"></activity>
     </application>
 
 </manifest>

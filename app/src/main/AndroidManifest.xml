@@ -18,7 +18,9 @@
         </activity>
         <activity android:name=".ActivityLIfeCycle" />
         <activity android:name=".IntentXample" />
-        <activity android:name=".UIElements"></activity>
+        <activity android:name=".UIElements" />
+        <activity android:name=".ImageViewExamle" />
+        <activity android:name=".MoreUIElements"></activity>
     </application>
 
 </manifest>

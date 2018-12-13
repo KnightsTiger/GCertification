@@ -20,4 +20,12 @@ public class MainActivity extends AppCompatActivity {
     public void goToUIIcons(View view) {
         startActivity(new Intent(this,UIElements.class));
     }
+
+    public void goToImageView(View view) {
+        startActivity(new Intent(this,ImageViewExamle.class));
+    }
+
+    public void goToMoreUI(View view) {
+        startActivity(new Intent(this,MoreUIElements.class));
+    }
 }
